@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Placeholder only. KeyboardView ignores long presses unless android:popupLayout is set; the real
+     accent popup is drawn by ImeKeyboardView, so this layout is never inflated. -->
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"/>

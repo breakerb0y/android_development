@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Light theme. Dark values live in values-night/colors.xml. -->
+<resources>
+    <color name="keyboard_background">#E8EBF1</color>
+    <color name="key_background">#FFFFFF</color>
+    <color name="key_shadow">#B9C0CE</color>
+    <color name="key_pressed">#C9D1E0</color>
+    <color name="key_checked">#C7D7FF</color>
+    <color name="key_text">#1C1F26</color>
+    <color name="key_icon">#3A404C</color>
+</resources>

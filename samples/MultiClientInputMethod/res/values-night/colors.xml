@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Dark theme, used while the system is in night mode. -->
+<resources>
+    <color name="keyboard_background">#15171C</color>
+    <color name="key_background">#2B2E36</color>
+    <color name="key_shadow">#0B0C0F</color>
+    <color name="key_pressed">#454A56</color>
+    <color name="key_checked">#3B4C7E</color>
+    <color name="key_text">#E8EAF0</color>
+    <color name="key_icon">#C9CED9</color>
+</resources>

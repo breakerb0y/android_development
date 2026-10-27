@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Colors come from res/values(-night)/colors.xml, so the keyboard follows light/dark mode. -->
+<com.example.android.multiclientinputmethod.ImeKeyboardView
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        android:id="@+id/keyboard"
+        android:layout_alignParentBottom="true"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/keyboard_background"
+        android:keyBackground="@drawable/key_background"
+        android:keyTextColor="@color/key_text"
+        android:keyTextSize="22sp"
+        android:labelTextSize="16sp"
+        android:shadowColor="@android:color/transparent"
+        android:shadowRadius="0"
+        android:popupLayout="@layout/keyboard_popup"
+        android:keyPreviewLayout="@null"
+        />
